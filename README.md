@@ -32,3 +32,17 @@ Se trata de un `stack` de desarollo web basado en JavaScript y orientado en la c
 `React.js (R).` React permitiría que la aplicación pudiera mostrar de forma rápica y atractiva las fichas de libros, actualizar sin recargar la página y ofrecer foros con una experiencia fluida, entre otras cosas.
 
 `Node.js (N).` En este proyecto se usaría para manejar la lógica de la aplicación (alta de usuarios, gestión de intercambios, control de accesos al foro), garantizando además que tanto en el frontend como en el backend se use un único lenguaje: JavaScript.
+
+## *4. Evidencias del uso de Toggl Track:*
+
+- Captura para mostrar Toggl Track implementado en una tarea:
+
+  ![Vista previa de la aplicación](Captura%20de%20pantalla%202025-09-26%20010345.png)
+  
+
+
+- PDF generado por la aplicación: 
+  - Summary:
+ [Reporte resumen](TogglTrack_Report_Summary_report__from_09_22_2025_to_09_28_2025_.pdf)
+  - Detailed:
+  [Reporte detallado](TogglTrack_Report_Detailed_report__from_09_22_2025_to_09_28_2025_.pdf)
