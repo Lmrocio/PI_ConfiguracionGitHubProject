@@ -9,6 +9,8 @@ La despensa del lector es una aplicación web pensada para conectar a lectores q
 
 <hr>
 
+<br>
+
 ## *2. ¿Qué es MERN?:*
 
 Se trata de un `stack` de desarollo web basado en JavaScript y orientado en la construcción de aplicaciones rápidas y escalables. Sus sigles significan: 
@@ -23,6 +25,8 @@ Se trata de un `stack` de desarollo web basado en JavaScript y orientado en la c
 
 <hr>
 
+<br>
+
 ## *3. Justificación de MERN en el proyecto:*
 
 `MongoDB (M).` En este proyecto resulta útil porque cada libro puede tener distinta información (título, autor, reseñas, valoraciones, estado de conservación, etc.), y MongoDB permite almacenar todo eso de manera flexible, sin necesidad de estructuras rígidas.
@@ -33,6 +37,10 @@ Se trata de un `stack` de desarollo web basado en JavaScript y orientado en la c
 
 `Node.js (N).` En este proyecto se usaría para manejar la lógica de la aplicación (alta de usuarios, gestión de intercambios, control de accesos al foro), garantizando además que tanto en el frontend como en el backend se use un único lenguaje: JavaScript.
 
+<hr>
+
+<br>
+
 ## *4. Evidencias del uso de Toggl Track:*
 
 - Captura para mostrar Toggl Track implementado en una tarea:
@@ -40,9 +48,10 @@ Se trata de un `stack` de desarollo web basado en JavaScript y orientado en la c
   ![Vista previa de la aplicación](Captura%20de%20pantalla%202025-09-26%20010345.png)
   
 
-
 - PDF generado por la aplicación: 
   - Summary:
  [Reporte resumen](TogglTrack_Report_Summary_report__from_09_22_2025_to_09_28_2025_.pdf)
   - Detailed:
   [Reporte detallado](TogglTrack_Report_Detailed_report__from_09_22_2025_to_09_28_2025_.pdf)
+
+
